@@ -1,6 +1,5 @@
 ---
-title: "Welcome to my blog"
-date: 2019-01-20
+title: "MY first Blog POST"
+date: 2022-01-07
 ---
 
-MY first Blog POST
